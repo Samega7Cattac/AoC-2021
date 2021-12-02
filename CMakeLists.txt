@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 20
 project(aoc2021)
 
 add_subdirectory(day1)
+add_subdirectory(day2)
